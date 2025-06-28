@@ -1,0 +1,17 @@
+# Bỏ qua thư mục dữ liệu và môi trường ảo
+data/
+ecg_env/
+
+# Các thư mục và file không cần thiết khác
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.log
+*.bak
+*.swp
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
